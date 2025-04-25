@@ -23,3 +23,24 @@ This is a simple Object-Oriented Programming (OOP) Java project simulating an el
 - **Types of Memory**: `Main.java` discusses `heap`, `stack`, and `method` memory regions.
 
 ---
+
+## 🚀 How to Run
+- **Compile all files:**
+  ```bash
+  javac *.java
+  ```
+- **Run the main App:**
+  ```bash
+  java App
+  ```
+- **Run Memory Allocation Demo(Optional):**
+  ```bash
+  java Main
+  ```
+
+  ---
+  
+  ## ✍️ Author's Note
+  This is a classroom-level exercise to solidify OOP principles on Day-2 of Java Training. Ideal for beginners learning Java and software design principles.
+
+  ---
